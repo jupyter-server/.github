@@ -18,7 +18,7 @@ Before creating a new feature request please search the issues for relevant feat
 * I would like it if [...] happened when I [...] because [...]
 -->
 
-### Proposed Solution
+### Proposed solution
 
 <!-- Provide a clear and concise description of a way to accomplish what you want. For example:
 
@@ -30,3 +30,4 @@ Before creating a new feature request please search the issues for relevant feat
 <!-- Add any other context or screenshots about the feature request here. You can also include links to examples of other programs that have something similar to your request. For example:
 
 * Another project [...] solved this by [...]
+-->
